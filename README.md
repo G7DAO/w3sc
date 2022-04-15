@@ -1,5 +1,5 @@
-## (W3SC) Web 3 System Controls
-The goal of this project is to create an opensource and collaborative security controls checklist that the industry can use as a security guide. With enough community input, we hope this guide will eventually be viewed as "Best Practice" and potentially evolve into an open standard for Web 3.
+## (W3SC) Web3 System Controls
+The goal of this project is to create an opensource and collaborative security controls checklist that the industry can use as a security guide. With enough community input, we hope this guide will eventually be viewed as "Best Practice" and potentially evolve into an open standard for Web3.
 
 ### Attribution
 The following organizations and people have contributed to this guide and will be listed as Authors of the final specification:
