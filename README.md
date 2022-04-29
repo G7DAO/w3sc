@@ -1,5 +1,11 @@
 # (W3SC) Web3 System Controls
-The goal of this project is to create an opensource and collaborative security controls checklist that the industry can use as a security guide. With enough community input, we hope this guide will eventually be viewed as "Best Practice" and potentially evolve into an open standard for Web3.
+The goal of this project is to create an opensource and collaborative security
+controls checklist that the industry can use as a security guide. With enough
+community input, we hope this guide will eventually be viewed as "Best Practice" and potentially evolve into an open security standard for Web3.
+
+This project is a WIP and is being actively developed. Frequent changes to the contents of this project should be expected.
+This project was launched for the primary purpose of beginning the conversation around Web3 Security 
+Best Practice.
 
 ## Attribution
 The following organizations and people have contributed to this guide and will be listed as Authors of the final specification:
@@ -8,6 +14,8 @@ The following organizations and people have contributed to this guide and will b
 * BlockSecNerd
 * [Moonstream](https://moonstream.to)
 * [Kompotkot](https://github.com/kompotkot)
+
+_note: Attribution is very import. Please feel free to point out any deficiencies._ 
 
 ## W3SC Roadmap
 
