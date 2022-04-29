@@ -1,5 +1,5 @@
 # Information Security
-Created by DCentn, [@Game7](https://game7.io/)
+Created by BlockSecNerd, [@Game7](https://game7.io/)
 April 19, 2022
 
 Edited by [YOU](#)

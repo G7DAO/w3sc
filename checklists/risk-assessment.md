@@ -1,5 +1,5 @@
 # Risk Assessment
-Created by DCentn, [@Game7](https://game7.io/)
+Created by BlockSecNerd, [@Game7](https://game7.io/)
 April 18, 2022
 
 Edited by [YOU](#)

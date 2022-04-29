@@ -1,6 +1,6 @@
 # Penetration Testing for the Web
 Created by [six2dez](https://github.com/six2dez), [pentest-book](https://github.com/six2dez/pentest-book)
-Added to Wiki by DCentn 04/2022
+Added to Wiki by BlockSecNerd 04/2022
 
 Edited by [YOU](#)
 
