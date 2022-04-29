@@ -4,7 +4,7 @@ The goal of this project is to create an opensource and collaborative security c
 ### Attribution
 The following organizations and people have contributed to this guide and will be listed as Authors of the final specification:
 * [Game7](https://game7.io/)
-* BlockSecNerd
+* DCentn
 * BlockSecNerd
 * [Moonstream](https://moonstream.to)
 * [Kompotkot](https://github.com/kompotkot)
