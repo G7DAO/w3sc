@@ -1,12 +1,12 @@
 # Penetration Testing for the Web
 Created by [six2dez](https://github.com/six2dez), [pentest-book](https://github.com/six2dez/pentest-book)
-Added to Wiki by BlockSecNerd 04/2022
+
+Added by BlockSecNerd 04/2022
 
 Edited by [YOU](#)
 
 ## Description
-This checklist is designed to assist you with Penetration Testing of your Web Assets. 
-
+This checklist is designed to assist you with Penetration Testing of your Web Assets. It was written by [six2dez](https://github.com/six2dez) and added here for simplicity.
 
 # Recon phase
 TODO
