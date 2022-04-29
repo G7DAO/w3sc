@@ -1,7 +1,7 @@
-## (W3SC) Web3 System Controls
+# (W3SC) Web3 System Controls
 The goal of this project is to create an opensource and collaborative security controls checklist that the industry can use as a security guide. With enough community input, we hope this guide will eventually be viewed as "Best Practice" and potentially evolve into an open standard for Web3.
 
-### Attribution
+## Attribution
 The following organizations and people have contributed to this guide and will be listed as Authors of the final specification:
 * [Game7](https://game7.io/)
 * DCentn
@@ -9,9 +9,9 @@ The following organizations and people have contributed to this guide and will b
 * [Moonstream](https://moonstream.to)
 * [Kompotkot](https://github.com/kompotkot)
 
-### W3SC Roadmap
+## W3SC Roadmap
 
-Checklists
+### Stage 1 - Checklists
 
 - [x] [Hello World](https://github.com/G7DAO/w3sc/README.md) - 04/2022
 - [x] [Access Controls](https://github.com/G7DAO/w3sc/blob/main/checklists/access-controls.md) - 04/2022
@@ -28,9 +28,9 @@ Checklists
 - [x] [Business Continuity](https://github.com/G7DAO/w3sc/blob/main/checklists/business-continuity.md) - 04/2022
 - [x] [Information Security](https://github.com/G7DAO/w3sc/blob/main/checklists/information-security.md) - 04/2022
 - [ ] [Penetration Testing](#) - 08/2022
-	- [x] [Web Penetration Testing](https://github.com/G7DAO/w3sc/blob/main/checklists/penetration-testing/penetration-testing-web.md) - 04/2022
+    - [x] [Web Penetration Testing](https://github.com/G7DAO/w3sc/blob/main/checklists/penetration-testing/penetration-testing-web.md) - 04/2022
 - [ ] [Smart Contracts](#) - 08/2022
-	- [x] [Solidity Smart Contract Checklist](https://github.com/G7DAO/w3sc/blob/main/checklists/smart-contracts/solidity-checklist.md) - 04/2022
+    - [x] [Solidity Smart Contract Checklist](https://github.com/G7DAO/w3sc/blob/main/checklists/smart-contracts/solidity-checklist.md) - 04/2022
 - [ ] End–users, Employees, Contractors and Management - 04/2022
 - [ ] Privacy - 04/2022
 - [ ] Community - 05/2022
@@ -45,6 +45,9 @@ Checklists
 - [ ] Web3 Controls - 06/2022
 - [ ] Offensive OpSec - 06/2022
 - [ ] Whitehat Hacker - 06/2022
+
+### Stage 2 - Best Practice
+TODO
 
 ### Standards
 This guide follows existing Cybersecurity, Network Security, Operations Security, Information Security and Personal Security best practice as described in the following specifications. _A brief description of each of these standards can be found at the bottom of this document._
