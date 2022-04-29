@@ -11,6 +11,8 @@ The following organizations and people have contributed to this guide and will b
 
 ### W3SC Roadmap
 
+Checklists
+
 - [x] [Hello World](https://github.com/G7DAO/w3sc/README.md) - 04/2022
 - [x] [Access Controls](https://github.com/G7DAO/w3sc/blob/main/checklists/access-controls.md) - 04/2022
 - [x] [Change Management](https://github.com/G7DAO/w3sc/blob/main/checklists/change-management.md) - 04/2022
