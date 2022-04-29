@@ -11,24 +11,24 @@ The following organizations and people have contributed to this guide and will b
 
 ### W3SC Roadmap
 
-- [x] [Hello World](https://github.com/G7DAO/w3sc) - 04/2022
-- [x] [Access Controls](/en/w3sc/access-controls) - 04/2022
-- [x] [Change Management](/en/w3sc/change-management) - 04/2022
-- [x] [Critical Information Communication](/en/w3sc/critical-information) - 04/2022
-- [x] [Incident Response](/en/w3sc/incident-response)  - 04/2022
-- [x] [Network Security](/en/w3sc/network-security) - 04/2022
-- [x] [Organizational Management](/en/w3sc/organizational-management) - 04/2022
-- [x] [Risk Assessment](/en/w3sc/risk-assessment) - 04/18/2022
-- [x] [Vulnerability Management](/en/w3sc/vulnerability-management) - 04/2022
-- [x] [Physical Security](/en/w3sc/physical-security) - 04/2022
-- [x] [Confidentiality](/en/w3sc/confidentiality) - 04/2022
-- [x] [Availability](/en/w3sc/availability) - 04/2022
-- [x] [Business Continuity](/en/w3sc/business-continuity) - 04/2022
-- [x] [Information Security](/en/w3sc/information-security) - 04/2022
-- [ ] [Penetration Testing](/en/w3sc/penetration-testing) - 08/2022
-	- [x] [Web Penetration Testing](/en/w3sc/penetration-testing/penetration-testing-web) - 04/2022
-- [ ] [Smart Contracts](/en/w3sc/smart-contracts) - 08/2022
-	- [x] [Solidity Smart Contract Checklist](/en/w3sc/smart-contracts/solidity-checklist) - 04/2022
+- [x] [Hello World](https://github.com/G7DAO/w3sc/README.md) - 04/2022
+- [x] [Access Controls](https://github.com/G7DAO/w3sc/blob/main/checklists/access-controls.md) - 04/2022
+- [x] [Change Management](https://github.com/G7DAO/w3sc/blob/main/checklists/change-management.md) - 04/2022
+- [x] [Critical Information Communication](https://github.com/G7DAO/w3sc/blob/main/checklists/critical-information.md) - 04/2022
+- [x] [Incident Response](https://github.com/G7DAO/w3sc/blob/main/checklists/incident-response.md)  - 04/2022
+- [x] [Network Security](https://github.com/G7DAO/w3sc/blob/main/checklists/network-security.md) - 04/2022
+- [x] [Organizational Management](https://github.com/G7DAO/w3sc/blob/main/checklists/organizational-management.md) - 04/2022
+- [x] [Risk Assessment](https://github.com/G7DAO/w3sc/blob/main/checklists/risk-assessment.md) - 04/18/2022
+- [x] [Vulnerability Management](https://github.com/G7DAO/w3sc/blob/main/checklists/vulnerability-management.md) - 04/2022
+- [x] [Physical Security](https://github.com/G7DAO/w3sc/blob/main/checklists/physical-security.md) - 04/2022
+- [x] [Confidentiality](https://github.com/G7DAO/w3sc/blob/main/checklists/confidentiality.md) - 04/2022
+- [x] [Availability](https://github.com/G7DAO/w3sc/blob/main/checklists/availability.md) - 04/2022
+- [x] [Business Continuity](https://github.com/G7DAO/w3sc/blob/main/checklists/business-continuity.md) - 04/2022
+- [x] [Information Security](https://github.com/G7DAO/w3sc/blob/main/checklists/information-security.md) - 04/2022
+- [ ] [Penetration Testing](#) - 08/2022
+	- [x] [Web Penetration Testing](https://github.com/G7DAO/w3sc/blob/main/checklists/penetration-testing/penetration-testing-web.md) - 04/2022
+- [ ] [Smart Contracts](#) - 08/2022
+	- [x] [Solidity Smart Contract Checklist](https://github.com/G7DAO/w3sc/blob/main/checklists/smart-contracts/solidity-checklist.md) - 04/2022
 - [ ] End–users, Employees, Contractors and Management - 04/2022
 - [ ] Privacy - 04/2022
 - [ ] Community - 05/2022
