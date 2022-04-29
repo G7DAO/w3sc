@@ -3,9 +3,46 @@ The goal of this project is to create an opensource and collaborative security c
 
 ### Attribution
 The following organizations and people have contributed to this guide and will be listed as Authors of the final specification:
-* Game7
+* [Game7](https://game7.io/)
 * DCentn
 * BlockSecNerd
+* [Moonstream](https://moonstream.to)
+* [Kompotkot](https://github.com/kompotkot)
+
+### W3SC Roadmap
+
+- [x] [Hello World](https://github.com/G7DAO/w3sc) - 04/2022
+- [x] [Access Controls](/en/w3sc/access-controls) - 04/2022
+- [x] [Change Management](/en/w3sc/change-management) - 04/2022
+- [x] [Critical Information Communication](/en/w3sc/critical-information) - 04/2022
+- [x] [Incident Response](/en/w3sc/incident-response)  - 04/2022
+- [x] [Network Security](/en/w3sc/network-security) - 04/2022
+- [x] [Organizational Management](/en/w3sc/organizational-management) - 04/2022
+- [x] [Risk Assessment](/en/w3sc/risk-assessment) - 04/18/2022
+- [x] [Vulnerability Management](/en/w3sc/vulnerability-management) - 04/2022
+- [x] [Physical Security](/en/w3sc/physical-security) - 04/2022
+- [x] [Confidentiality](/en/w3sc/confidentiality) - 04/2022
+- [x] [Availability](/en/w3sc/availability) - 04/2022
+- [x] [Business Continuity](/en/w3sc/business-continuity) - 04/2022
+- [x] [Information Security](/en/w3sc/information-security) - 04/2022
+- [ ] [Penetration Testing](/en/w3sc/penetration-testing) - 08/2022
+	- [x] [Web Penetration Testing](/en/w3sc/penetration-testing/penetration-testing-web) - 04/2022
+- [ ] [Smart Contracts](/en/w3sc/smart-contracts) - 08/2022
+	- [x] [Solidity Smart Contract Checklist](/en/w3sc/smart-contracts/solidity-checklist) - 04/2022
+- [ ] End–users, Employees, Contractors and Management - 04/2022
+- [ ] Privacy - 04/2022
+- [ ] Community - 05/2022
+- [ ] Cloud Security - 05/2022
+- [ ] Application security - 05/2022
+- [ ] Operational security - 05/2022
+- [ ] Disaster recovery - 05/2022
+- [ ] Resilience - 05/2022
+- [ ] Integrity - 05/2022
+- [ ] Automation - 05/2022
+- [ ] Tokens and Keys - 06/2022
+- [ ] Web3 Controls - 06/2022
+- [ ] Offensive OpSec - 06/2022
+- [ ] Whitehat Hacker - 06/2022
 
 ### Standards
 This guide follows existing Cybersecurity, Network Security, Operations Security, Information Security and Personal Security best practice as described in the following specifications. _A brief description of each of these standards can be found at the bottom of this document._
@@ -24,31 +61,6 @@ This guide follows existing Cybersecurity, Network Security, Operations Security
 * **Cloud Security Alliance (CSA)**
 * **ISO/SAE 21434**
 * **ISO/IEC 20243-1**
-
-### W3SC Roadmap
-
-- [x] Hello World - 04/18/2022
-- [ ] End–users, Employees, Contractors and Management - 04/25/2022
-- [ ] Access Controls - 04/2022
-- [ ] Privacy - 04/2022
-- [ ] Confidentiality - 04/2022
-- [ ] Community - 05/2022
-- [ ] Network security - 05/2022
-- [ ] Cloud Security - 05/2022
-- [ ] Application security - 05/2022
-- [ ] Operational security - 06/2022
-- [ ] Information security - 06/2022
-- [ ] Disaster recovery - 06/2022
-- [ ] Business continuity - 06/2022
-- [ ] Availability - 07/2022
-- [ ] Resilience - 07/2022
-- [ ] Integrity - 07/2022
-- [ ] Automation - 07/2022
-- [ ] Smart Contracts - 08/2022
-- [ ] Tokens and Keys - 08/2022
-- [ ] Web3 Controls - 08/2022
-- [ ] Offensive OpSec - 09/2022
-- [ ] Whitehat Hacker - 09/2022
 
 ### Standards Described
 **SOC 2 Type 2**
@@ -104,6 +116,6 @@ ISO/IEC 27001 is a security standard that formally specifies an Information Secu
 
 **ISO/SAE 21434:** Standard covers the aspects of automotive cybersecurity. This standard includes the list of requirements related to cyber security risk management. It also covers a cybersecurity process framework that help OEM to come on common platform and communicate risks related to security.
 
-**ISO/IEC 20243-1:** This Information technoloy standard refers Open Trusted Technology ProviderTM Standard (O-TTPS). This particular standard helps in mitigating maliciously tainted and counterfeit products.
+**ISO/IEC 20243-1:** This Information technology standard refers Open Trusted Technology ProviderTM Standard (O-TTPS). This particular standard helps in mitigating maliciously tainted and counterfeit products.
 
 
