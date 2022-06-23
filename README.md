@@ -1,5 +1,5 @@
 # (W3SC) Web3 System Controls
-June 22, 2022 this project is being moved to [Game7 DAO](https://github.com/G7DAO/w3sc)
+June 22, 2022 this project was moved from [DCentn](https://github.com/dcentn/w3sc)
 
 The goal of this project is to create an opensource and collaborative security
 controls checklist that the industry can use as a security guide. With enough
