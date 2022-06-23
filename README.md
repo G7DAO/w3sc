@@ -38,19 +38,19 @@ _note: Attribution is very import. Please feel free to point out any deficiencie
 - [x] [Business Continuity](https://github.com/G7DAO/w3sc/blob/main/checklists/business-continuity.md) - 05/2022
 - [x] [Information Security](https://github.com/G7DAO/w3sc/blob/main/checklists/information-security.md) - 05/2022
 - [ ] [Penetration Testing](#) - 08/2022
-    - [x] [Web Penetration Testing](https://github.com/G7DAO/w3sc/blob/main/checklists/penetration-testing/penetration-testing-web.md) - 05/2022
+    - [x] [Web Penetration Testing](https://github.com/G7DAO/w3sc/blob/main/checklists/penetration-testing/penetration-testing-web.md) - 06/2022
 - [ ] [Smart Contracts](#) - 08/2022
-    - [x] [Solidity Smart Contract Checklist](https://github.com/G7DAO/w3sc/blob/main/checklists/smart-contracts/solidity-checklist.md) - 05/2022
-- [ ] End–users, Employees, Contractors and Management - 05/2022
-- [ ] Privacy - 05/2022
+    - [x] [Solidity Smart Contract Checklist](https://github.com/G7DAO/w3sc/blob/main/checklists/smart-contracts/solidity-checklist.md) - 06/2022
+- [ ] End–users, Employees, Contractors and Management - 06/2022
+- [ ] Privacy - 06/2022
 - [ ] Community - 06/2022
 - [ ] Cloud Security - 06/2022
 - [ ] Application security - 06/2022
 - [ ] Operational security - 06/2022
 - [ ] Disaster recovery - 06/2022
-- [ ] Resilience - 06/2022
-- [ ] Integrity - 06/2022
-- [ ] Automation - 06/2022
+- [ ] Resilience - 07/2022
+- [ ] Integrity - 07/2022
+- [ ] Automation - 07/2022
 - [ ] Tokens and Keys - 07/2022
 - [ ] Web3 Controls - 07/2022
 - [ ] Offensive OpSec - 07/2022
